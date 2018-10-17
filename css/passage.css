@@ -1,0 +1,12 @@
+.main-content{
+	font-family: 'Lora', serif;
+}
+.first-task{
+	line-height: 1.58;
+	max-width: 740px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: 0 auto;
+	font-size:21px;
+	font-weight: 400;
+}
