@@ -1,0 +1,12 @@
+.intro {
+  text-align: center !important;
+}
+.intro h1{
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
+.sub_topic{
+  background-color: #FBACAC;
+  margin-bottom: 20px;
+  padding: 10px 20px;
+  border: solid 1px #e6e6e6;
+}
